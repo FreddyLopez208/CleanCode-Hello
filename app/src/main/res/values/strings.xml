@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="say_hello_button_label">Say Hello</string>
+    <string name="go_bye_button_label">Go Bye</string>
+    <string name="hello_message">Hello World!</string>
+
+    <string name="empty_text">\?</string>
+
+    <string name="say_bye_button_label">Say Bye</string>
+    <string name="go_hello_button_label">Go Hello</string>
+    <string name="bye_message">Bye World!</string>
+    <string name="hello_screen_title">Hello Screen</string>
+    <string name="bye_screen_title">Bye Screen</string>
+</resources>
